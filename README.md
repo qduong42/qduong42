@@ -51,5 +51,5 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 # 42 Piscine
 
 ## Status
-* passed ✅ April '21
+* passed ✅ April '21\
 ![Profile views](https://gpvc.arturio.dev/qduong42)
