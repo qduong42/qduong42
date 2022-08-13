@@ -29,17 +29,17 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 |--( 4 )--| 16  | CPP Module 04                               | abstract classes and interfaces  | ❌     | 100 / 100 % |
 |--( 4 )--| 15  | CPP Module 03                               | Inheritance                      | ❌     | 100 / 100 % |
 |--( 4 )--| 14  | CPP Module 02                               | Ad-hoc polymorphism, overloads   | ❌     | 100 / 100 % |
-|--( 4 )--| 13  | CPP Module 01                               | memory, reference, pointers      | 🔄     | 100 / 100 % |
-|--( 4 )--| 12  | [CPP Module 00](../../../42_cpp_00)         | Creating a Class                 | 🔄     | 100 / 100 % |
+|--( 4 )--| 13  | CPP Module 01                               | memory, reference, pointers      | 🚧     | 100 / 100 % |
+|--( 4 )--| 12  | [CPP Module 00](../../../42_cpp_00)         | Creating a Class                 | 🚧     | 100 / 100 % |
 |--( 4 )--| 11  | [NetPractice](../../../42_NetPractice)      | networking - IP-Masks            | ✅     | 100 / 100 % |
 |--( 4 )--| 10  | miniRT                                      |                                  | ➖     | --- / 100 % | 
-|--( 4 )--| 10  | [cub3d](../../../42_cub3D)                  | Raycasting 2D -> 3D              | 🔄     |     / 100 % |
+|--( 4 )--| 10  | [cub3d](../../../42_cub3D)                  | Raycasting 2D -> 3D              | 🚧     |     / 100 % |
 |--( 3 )--|  9  | [Philosophers](../../../42_Philosophers)    | Threads and Processes            | ✅     | 105 / 100 % |
 |--( 3 )--|  8  | [minishell](../../../42_Minishell)          | like a Bash shell                | ✅     | 101 / 100 % |
 |--( 2 )--|  7  | [push_swap](../../../42_push_swap)          | sorting game algorhythm          | ✅     | 86  / 100 % |
 |--( 2 )--|  6  | pipex                                       |                                  | ➖     | --- / 100 % |   
 |--( 2 )--|  6  | [minitalk](../../../42_minitalk)            | UNIX Signals SIGUSR1 & SIGUSR2   | ✅     | 110 / 100 % |    
-|--( 2 )--|  5  | fract-ol                                    |                                  |➖      | --- / 100 % |
+|--( 2 )--|  5  | fract-ol                                    |                                  | ➖     | --- / 100 % |
 |--( 2 )--|  5  | [so_long](../../../42_so_long)              | "Design and code simple 2D game  | ✅     | 100 / 100 % |
 |--( 2 )--|  5  | FdF                                         | “iron wire” meshing in 3D        | ➖     | 100 / 100 % |    
 |--( 1 )--|  4  | [get_next_line](../../../42_get_next_line)  | reading from a filedescriptor    | ✅     | 125 / 100 % |
