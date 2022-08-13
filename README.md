@@ -40,7 +40,7 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 |--( 2 )--|  6  | pipex                                       |                                  | ➖     | --- / 100 % |   
 |--( 2 )--|  6  | [minitalk](../../../42_minitalk)            | UNIX Signals SIGUSR1 & SIGUSR2   | ✅     | 110 / 100 % |    
 |--( 2 )--|  5  | fract-ol                                    |                                  |➖      | --- / 100 % |
-|--( 2 )--|  5  | so_long(../../../42_so_long)                | "Design and code simple 2D game  | ✅     | 100 / 100 % |
+|--( 2 )--|  5  | [so_long](../../../42_so_long)              | "Design and code simple 2D game  | ✅     | 100 / 100 % |
 |--( 2 )--|  5  | FdF                                         | “iron wire” meshing in 3D        | ➖     | 100 / 100 % |    
 |--( 1 )--|  4  | [get_next_line](../../../42_get_next_line)  | reading from a filedescriptor    | ✅     | 125 / 100 % |
 |--( 1 )--|  3  | [ft_printf](../../../42_ft_printf)          | recoded printf standard function | ✅     | 100 / 100 % |  
