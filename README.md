@@ -27,8 +27,8 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 |--( 4 )--| 18  | CPP Module 06                               | casts in CPP                     | ❌     | 100 / 100 % |
 |--( 4 )--| 17  | CPP Module 05                               | Try/Catch and Exceptions         | ❌     | 100 / 100 % |
 |--( 4 )--| 16  | CPP Module 04                               | abstract classes and interfaces  | ❌     | 100 / 100 % |
-|--( 4 )--| 15  | CPP Module 03                               | Inheritance                      | ❌     | 100 / 100 % |
-|--( 4 )--| 14  | [CPP Module 02](../../../42_cpp_Module02)   | Ad-hoc polymorphism, overloads   | 🚧     | 100 / 100 % |
+|--( 4 )--| 15  | [CPP Module 03](../../../42_cpp_Module03)   | Inheritance                      | 🚧     | 100 / 100 % |
+|--( 4 )--| 14  | [CPP Module 02](../../../42_cpp_Module02)   | Ad-hoc polymorphism, overloads   | ✅     | 100 / 100 % |
 |--( 4 )--| 13  | [CPP Module 01](../../../42_cpp_Module01)   | memory, reference, pointers      | ✅     | 100 / 100 % |
 |--( 4 )--| 12  | [CPP Module 00](../../../42_cpp_Module00)   | Creating a Class                 | ✅     | 100 / 100 % |
 |--( 4 )--| 11  | [NetPractice](../../../42_NetPractice)      | networking - IP-Masks            | ✅     | 100 / 100 % |
