@@ -33,7 +33,7 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 |--( 4 )--| 12  | [CPP Module 00](../../../42_cpp_Module00)   | Creating a Class                 | ✅     | 100 / 100 % |
 |--( 4 )--| 11  | [NetPractice](../../../42_NetPractice)      | networking - IP-Masks            | ✅     | 100 / 100 % |
 |--( 4 )--| 10  | ~~miniRT~~                                  |                                  | ➖     | --- / 100 % | 
-|--( 4 )--| 10  | cub3d                                       | Raycasting 2D -> 3D              | 🚧     |     / 100 % |
+|--( 4 )--| 10  | cub3d                                       | Raycasting 2D -> 3D              | ✅     | 106 / 100 % |
 |--( 3 )--|  9  | [Philosophers](../../../42_Philosophers)    | Threads and Processes            | ✅     | 105 / 100 % |
 |--( 3 )--|  8  | [minishell](../../../42_Minishell)          | like a Bash shell                | ✅     | 101 / 100 % |
 |--( 2 )--|  7  | [push_swap](../../../42_push_swap)          | sorting game algorhythm          | ✅     | 86  / 100 % |
