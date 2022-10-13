@@ -47,6 +47,11 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 |--( 1 )--|  2  | Born2beroot                                 | virtual machine with VirtualBox  | ✅     | 125 / 100 % | 
 |--( 0 )--|  1  | [Libft](../../../42_Libft)                  | first library                    | ✅     | 125 / 100 % |  
 
+## Exams
+
+Exam02 ✅
+Exam03 ✅
+Exam04 ✅
 
 # 42 Piscine
 
