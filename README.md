@@ -19,7 +19,7 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 | :-----: | :-: | :------------------------------------------ | :-----------------               | :----: | :----------: |
 |--( 6 )--| 24  | ft_transcendence                            |                                  | 🔒     |
 |--( 5 )--| 23  | Inception                                   |                                  | 🔒     |
-|--( 5 )--| 22  | webserv                                     |                                  | 🔒     |
+|--( 5 )--| 22  | ~~webserv~~                                 |                                  | 🔒     |
 |--( 5 )--| 22  | ft_irc                                      |                                  | 🔒     |
 |--( 5 )--| 21  | ft_containers                               | creating containers in C++       | 🔒     |     / 100 % |
 |--( 4 )--| 20  | CPP Module 08                               | containers, iterators, algorithms| ❌     |     / 100 % |
