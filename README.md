@@ -18,10 +18,10 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 
 |  Circle | No. | Project                                     | Short Description                | Status |     Score    |
 | :-----: | :-: | :------------------------------------------ | :-----------------               | :----: | :----------: |
-|--( 6 )--| 24  | ft_transcendence                            |                                  | 🔒     |
-|--( 5 )--| 23  | Inception                                   |                                  | 🔒     |
+|--( 6 )--| 24  | ft_transcendence                            | creating a website Pong contest  | 🔒     |
+|--( 5 )--| 23  | Inception                                   | virtualization of Docker images  | 🔒     |
 |--( 5 )--| 22  | ~~webserv~~                                 |                                  | 🔒     |
-|--( 5 )--| 22  | ft_irc                                      |                                  | 🔒     |
+|--( 5 )--| 22  | ft_irc                                      | Create your own IRC server in C++| 🔒     |
 |--( 5 )--| 21  | [ft_containers](../../../42_containers)     | creating containers in C++       | 🚧     |     / 100 % |
 |--( 4 )--| 20  | [CPP Module 08](../../../42_cpp_Module08)   | containers, iterators, algorithms| 🚧     |     / 100 % |
 |--( 4 )--| 19  | [CPP Module 07](../../../42_cpp_Module07)   | Templates                        | ✅     | 100 / 100 % |
