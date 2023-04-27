@@ -6,7 +6,7 @@
 
 - 💬 Ask me about the 42 Philosophy and school system
 - 📫 How to reach me best: Discord or LinkedIn! If it is a specific project feel free to open a new issue!
-- ⚡ Fun fact: I speak quite a lot of human languages too! Always looking to practice my Chinese, Japanese, Spanish, Vietnamese.
+- ⚡ Fun fact: I speak quite a lot of human languages too! German & English at native level. Always looking to practice my Chinese, Japanese, Spanish, Vietnamese.
 - 🗣️ Fluent in German and English
 
 I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/) Software Engineering School
