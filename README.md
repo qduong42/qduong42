@@ -2,7 +2,7 @@
 
 ## 📱 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/huy-duong-aa06924a)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white) huy42
+![Discord][(https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/176071267525328906) huy42
 
 - 💬 Ask me about the 42 Philosophy and school system
 - 📫 How to reach me best: Discord or LinkedIn! If it is a specific project feel free to open a new issue!
