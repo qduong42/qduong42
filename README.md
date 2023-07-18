@@ -21,7 +21,7 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 |--( 6 )--| 24  | [ft_transcendence](https://github.com/edvinas1122/42_transcendence)  | [React NextJS/NestJS/PostGreSQL] creating a website  Pong contest  | ✅     | 100 / 100 % |
 |--( 5 )--| 23  | [Inception](../../../42_inception)          | virtualization of Docker images  | ✅     | 120 / 100 % |
 |--( 5 )--| 22  | ~~webserv~~                                 |                                  | ➖     |             |
-|--( 5 )--| 22  |  ft_irc                                     | [C++] Create your own IRC server in C++ | ✅     | 125 / 100 % |
+|--( 5 )--| 22  | [ft_irc](https://github.com/artur01-code/ft_irc)            | [C++] Create your own IRC server in C++ | ✅     | 125 / 100 % |
 |--( 5 )--| 21  | [CPP Module 09](../../../42_cpp_Module09)   | [C++] Utilizing containers      | ✅     | 100 / 100 % |
 |--( 4 )--| 20  | [CPP Module 08](../../../42_cpp_Module08)   | [C++] Containers, Iterators, Algorithms| ✅     | 100 / 100 % |
 |--( 4 )--| 19  | [CPP Module 07](../../../42_cpp_Module07)   | [C++] Templates                        | ✅     | 100 / 100 % |
