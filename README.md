@@ -26,7 +26,7 @@ I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de
 |-( 4 )-| 20  | [CPP Module 08](../../../42_cpp_Module08)   | [C++] Containers, Iterators, Algorithms| ✅     | 100 / 100 % |
 |-( 4 )-| 19  | [CPP Module 07](../../../42_cpp_Module07)   | [C++] Templates                        | ✅     | 100 / 100 % |
 |-( 4 )-| 18  | [CPP Module 06](../../../42_cpp_Module06)   | [C++] Casts in CPP                     | ✅     |  90 / 100 % |
-|-( 4 )-| 17  | [CPP Module 05](../../../42_cpp_Module05)   | [C++] Try/Catch and Exceptions         | ✅     | 100 / 100 % |
+| -( 4 )- | 17  | [CPP Module 05](../../../42_cpp_Module05)   | [C++] Try/Catch and Exceptions         | ✅     | 100 / 100 % |
 |-( 4 )-| 16  | [CPP Module 04](../../../42_cpp_Module04)   | [C++] abstract classes and interfaces  | ✅     | 100 /  80 % |
 |-( 4 )-| 15  | [CPP Module 03](../../../42_cpp_Module03)   | [C++] Inheritance                      | ✅     | 100 /  80 % |
 |-( 4 )-| 14  | [CPP Module 02](../../../42_cpp_Module02)   | [C++] Ad-hoc polymorphism, overloads   | ✅     | 100 /  80 % |
