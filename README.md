@@ -61,4 +61,4 @@ Exam06 ✅
 ## Status
 * passed ✅ April '21\
 
-![Profile views](https://gpvc.arturio.dev/qduong42)
+<!-- ![Profile views](https://gpvc.arturio.dev/qduong42) -->
