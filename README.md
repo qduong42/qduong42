@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I speak quite a lot of human languages too! German & English at native level. Always looking to practice my Chinese, Japanese, Spanish, Vietnamese.
 - 🗣️ Fluent in German and English
 
-I am currently studying at 👨🏻‍💻 [42 Wolfsburg](https://42wolfsburg.de/) Software Engineering School in the Advanced Track! I completed the core part in July 2023
+Graduated from 👨🏻‍💻 core studies @ [42 Wolfsburg](https://42wolfsburg.de/) I am currently studying specialisations at 👨🏻‍💻 [42 Berlin](https://42berlin.de/) Software Engineering School in the Advanced Track! I completed the core part in July 2023
 
 
 # 42 cursus [Holy Graph](https://cdn.discordapp.com/attachments/308385010979831809/1007561422693220402/unknown.png)
