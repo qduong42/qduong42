@@ -21,8 +21,8 @@ Graduated from 👨🏻‍💻 core studies @ [42 Wolfsburg](https://42wolfsburg
 |-(6)-| 24  | [ft_transcendence](https://github.com/edvinas1122/42_transcendence)  | [React NextJS/NestJS/PostGreSQL/Typescript] Creating a Web app to enable real-time ping pong battles as well as full chat services | ✅     | 100 / 100 % |
 |-(5)-| 23  | [Inception](../../../42_inception)          | Creating Docker images from scratch to build a LEMP Stack  | ✅     | 120 / 100 % |
 |-(5)-| 22  | ~~webserv~~                                 |                                  | ➖     |             |
-|-(5)-| 22  | [ft_irc](https://github.com/artur01-code/ft_irc)            | [C++] Create your own IRC server in C++ | ✅     | 125 / 100 % |
-|-(5)-| 21  | [CPP Module 09](../../../42_cpp_Module09)   | [C++] Utilizing containers      | ✅     | 100 / 100 % |
+|-(5)-| 22  | [ft_irc](https://github.com/artur01-code/ft_irc)            | [C++] Created my own IRC server in C++ | ✅     | 125 / 100 % |
+|-(5)-| 21  | [CPP Module 09](../../../42_cpp_Module09)   | [C++] Utilizing STL containers      | ✅     | 100 / 100 % |
 |-(4)-| 20  | [CPP Module 08](../../../42_cpp_Module08)   | [C++] Containers, Iterators, Algorithms| ✅     | 100 / 100 % |
 |-(4)-| 19  | [CPP Module 07](../../../42_cpp_Module07)   | [C++] Templates                        | ✅     | 100 / 100 % |
 |-(4)-| 18  | [CPP Module 06](../../../42_cpp_Module06)   | [C++] Casts in CPP                     | ✅     |  90 / 100 % |
