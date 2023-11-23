@@ -36,7 +36,7 @@ Graduated from 👨🏻‍💻 core studies @ [42 Wolfsburg](https://42wolfsburg
 |-(4)-| 10  | ~~miniRT~~                                  |                                  | ➖     | --- / 100 % |
 |-(4)-| 10  | cub3d                                       | [C] Raycasting 2D -> 3D Graphics Project | ✅     | 106 / 100 % |
 |-(3)-| 9  | [Philosophers](../../../42_Philosophers)    | [C] Threads and Processes            | ✅     | 105 / 100 % |
-|-(3)-| 8  | [minishell](../../../42_Minishell)          | [C] Coding a Bash shell                | ✅     | 101 / 100 % |
+|-(3)-| 8  | [minishell](../../../42_Minishell)          | [C] Designing/Coding my own Bash shell                | ✅     | 101 / 100 % |
 |-(2)-| 7  | [push_swap](../../../42_push_swap)          | [C] Sorting game algorithm with 2 stacks         | ✅     | 86  / 100 % |
 |-(2)-| 6  | ~~pipex~~                                   |                                  | ➖     | --- / 100 % |   
 |-(2)-| 6  | [minitalk](../../../42_minitalk)            | [C] UNIX Signals SIGUSR1 & SIGUSR2 handling  | ✅     | 110 / 100 % |    
